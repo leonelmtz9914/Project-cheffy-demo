@@ -11,9 +11,6 @@ import com.example.project_startup_cheffy.R;
 
 import java.util.List;
 
-/**
- * Created by AoD Akitektuo on 30-Mar-17.
- */
 
 public class IngredientAdapter extends ArrayAdapter<IngredientItem> {
     private Context context;

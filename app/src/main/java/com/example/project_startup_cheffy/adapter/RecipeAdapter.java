@@ -19,9 +19,6 @@ import java.util.List;
 import static com.example.project_startup_cheffy.util.Constant.KEY_NAME;
 import static com.example.project_startup_cheffy.util.Tool.getImage;
 
-/**
- * Created by AoD Akitektuo on 29-Mar-17.
- */
 
 public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.ViewHolder> {
 

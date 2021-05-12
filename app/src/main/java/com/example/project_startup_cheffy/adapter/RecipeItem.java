@@ -1,9 +1,6 @@
 package com.example.project_startup_cheffy.adapter;
 
 
-/**
- * Created by AoD Akitektuo on 29-Mar-17.
- */
 
 public class RecipeItem {
 

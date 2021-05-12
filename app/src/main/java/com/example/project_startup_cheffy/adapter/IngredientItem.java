@@ -1,8 +1,5 @@
 package com.example.project_startup_cheffy.adapter;
 
-/**
- * Created by AoD Akitektuo on 30-Mar-17.
- */
 
 public class IngredientItem {
 
