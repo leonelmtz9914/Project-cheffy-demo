@@ -2,9 +2,6 @@ package com.example.project_startup_cheffy.database;
 
 import android.provider.BaseColumns;
 
-/**
- * Created by AoD Akitektuo on 01-Apr-17.
- */
 
 class DatabaseContract {
     abstract class RecipeContractEntry implements BaseColumns {

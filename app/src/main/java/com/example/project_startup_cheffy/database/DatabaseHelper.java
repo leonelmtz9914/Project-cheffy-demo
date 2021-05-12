@@ -8,9 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import static com.example.project_startup_cheffy.util.Constant.CURSOR_ID;
 
-/**
- * Created by AoD Akitektuo on 01-Apr-17.
- */
+
 
 public class DatabaseHelper extends SQLiteOpenHelper {
 

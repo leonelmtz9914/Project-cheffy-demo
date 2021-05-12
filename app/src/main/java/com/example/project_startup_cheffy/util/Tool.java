@@ -19,9 +19,7 @@ import java.util.Arrays;
 
 import static com.example.project_startup_cheffy.util.Constant.LIST_SEPARATOR;
 
-/**
- * Created by Akitektuo on 01-Apr-17 at 21:01.
- */
+
 
 public class Tool {
     public static boolean setListViewHeightBasedOnItems(ListView listView) {
